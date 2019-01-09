@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1525398982 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 1 - april 25, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1524722646 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 1 - april 25, 2018\board.h
+	<vector>
+
+1525396560 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 1 - april 25, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1524725800 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 1 - april 25, 2018\myenums.h
+
+1525515308 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 2 (not calculating 1st position) - may 5, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1525512705 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 2 (not calculating 1st position) - may 5, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1525515308 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 2 (alpha-beta pruning) - may 5, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1525681078 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 2 (alpha-beta pruning) - may 5, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1525839020 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 3 (full alpha-beta pruning) - may 8, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1525916358 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 3 (full alpha-beta pruning) - may 8, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1526022444 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 4 (small fixes to when alpha and beta are reset) - may 9, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1525943961 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 4 (small fixes to when alpha and beta are reset) - may 9, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1527412143 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 5 (re-adding randomization) - may 10, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1527412143 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 5 (re-adding randomization) - may 10, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+
