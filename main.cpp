@@ -136,7 +136,7 @@ void test_positions()
 
             if (p1.get_evaluation() != 1)
             {
-                cout << "BAD!!!!";
+                cout << "Bad!";
             }
         }
     }
@@ -167,7 +167,7 @@ void test_positions()
 
             if (p1.get_evaluation() != -1)
             {
-                cout << "BAD!!!!";
+                cout << "Bad!";
             }
         }
     }
@@ -198,7 +198,7 @@ void test_positions()
 
             if (p1.get_evaluation() != -1)
             {
-                cout << "BAD!!!!";
+                cout << "Bad!";
             }
         }
     }
@@ -229,7 +229,7 @@ void test_positions()
 
             if (p1.get_evaluation() != 1)
             {
-                cout << "BAD!!!!";
+                cout << "Bad!";
             }
         }
     }
@@ -564,8 +564,6 @@ int main()
 
    // examine_data_type_sizes();
 
-
-
     char user_input = ' ';
 
     cout << "To play, press 1 and enter: ";
@@ -580,7 +578,5 @@ int main()
 
         cin >> user_input;
     }
-
-
 }
 
